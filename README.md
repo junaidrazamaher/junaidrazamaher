@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <strong>Junaid Raza Maher</strong></h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Pakistan.</h3>
-<a align="center" href="https://www.buymeacoffee.com/junaidraza"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=junaidraza&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/junaidraza"><img align="center" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=junaidraza&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 
 ## 🙋‍♂️ About Me
